@@ -7,6 +7,6 @@ declare module 'egg' {
   interface IService {
     mp: MPService;
     wcs: WCSService;
-    sign: SignService
+    sign: SignService,
   }
 }
