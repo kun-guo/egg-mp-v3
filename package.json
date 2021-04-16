@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "egg": "^2.23.0",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^10.2.0",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
